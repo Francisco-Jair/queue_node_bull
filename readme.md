@@ -2,6 +2,8 @@
 
 #### Fila usando Redis, mailtrap para enviar email
 
+mailtrap.io
+
 
 ## Comandos Redis
 sudo service redis-server start 
